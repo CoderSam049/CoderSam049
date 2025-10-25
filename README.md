@@ -31,9 +31,7 @@
 
 <img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF" width="400"/>
 
-- 🔭 I’m currently working on **[Apna Manuu](https://apnamanuu-education.netlify.app/)**
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **[Apna College Clone](https://apnacollegeclone-by-samirkhan.netlify.app/)**
+- 🌱 I’m currently learning **backend devlopment**
 - 📫 How to reach me **codewithsam049@gmail.com**
 - ⚡ Fun fact: *I code in my dreams!*
 
